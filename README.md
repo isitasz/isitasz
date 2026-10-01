@@ -12,8 +12,6 @@
         ⌘  data       ⌁  automation       ◈  linux
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono\&size=16\&pause=1200\&color=9B5CFF\&center=true\&vCenter=true\&width=520\&lines=computer+science+student;python+%2B+sql+%2B+java+%2B+c)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -74,3 +72,5 @@ i'm migrating accounts and will soon update this section.
 i'm migrating accounts and will soon update this section.
 
 </details>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=900&pause=700&color=9B5CFF&background=0D0B1200&center=false&vCenter=false&multiline=true&repeat=true&width=520&height=55&lines=%24+clear%3B%24+exit)](https://git.io/typing-svg)
