@@ -19,8 +19,9 @@
 ### `~/toolbox`
 
 ```text
-languages    →  C · Python · SQL · Java
-environment  →  Linux · Git
+languages    →  C · Python · Java
+environment  →  Bash · Git · SQL
+learning  → dbt · databricks · snowflake
 ```
 
 <div align="center">
