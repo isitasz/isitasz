@@ -39,25 +39,20 @@ learning  → dbt · databricks · snowflake
 
 ### `~/projects`
 
-```text
-$ ls
-
-automation/
-data/
-experiments/
-```
 
 <details>
-<summary><code>automation/</code></summary>
+<summary><code>data/</code></summary>
 
-<br>
-
-i'm migrating accounts and will soon update this section.
+<sub>
+  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/log-analyzer">log-analyzer</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;analyzing linux authentication logs to identify failed logins, detect suspicious activity, and uncover patterns in authentication events
+</sub>
 
 </details>
 
 <details>
-<summary><code>data/</code></summary>
+<summary><code>automation/</code></summary>
 
 <br>
 
