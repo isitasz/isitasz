@@ -44,9 +44,9 @@ learning  → dbt · databricks · snowflake
 <summary><code>data/</code></summary>
 
 <sub>
-  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/log-analyzer">log-analyzer</a>
+  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/log-analyzer">authopsy</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;analyzing Linux authentication logs to identify failed login attempts, detect suspicious activity, and uncover patterns in authentication events. 
+  &nbsp;&nbsp;&nbsp;&nbsp;performing an "autopsy" on linux authentication logs — analyzing failed login attempts, detecting suspicious activity, and uncovering patterns in authentication events. 
 </sub>
 
 </details>
