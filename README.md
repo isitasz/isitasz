@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ```text
@@ -70,3 +72,7 @@ i'm migrating accounts and will soon update this section.
 </details>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=900&pause=700&color=9B5CFF&background=0D0B1200&center=false&vCenter=false&multiline=true&repeat=true&width=520&height=55&lines=%24+clear%3B%24+exit)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="banner.jpg">
+</div> 
