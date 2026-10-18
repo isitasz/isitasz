@@ -48,7 +48,15 @@ learning  → dbt · databricks · snowflake
 <sub>
   &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/log-analyzer">authopsy</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;performing an "autopsy" on linux authentication logs — analyzing failed login attempts, detecting suspicious activity, and uncovering patterns in authentication events. 
+  &nbsp;&nbsp;&nbsp;&nbsp;performing an "autopsy" on linux authentication logs — analyzing failed login attempts, detecting suspicious activity, and uncovering patterns in authentication events.
+  <br>
+</sub>
+
+<sub>
+  &nbsp;&nbsp;02 · <a href="https://github.com/isitasz/afterword.git">afterword</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a cloud-based dynamic catalog for tracking and analyzing your consumption of diferent medias.
+  <br>
 </sub>
 
 </details>
