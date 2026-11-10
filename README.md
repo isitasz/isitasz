@@ -9,11 +9,11 @@
 │                                                            │
 │   $ whoami                                                 │
 │     isabella camillo                                       │
-│     computer science student                               │
+│     computer science student @ UFSCar                      │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 
-        ⌘  cloud       ⌁  automation       ◈  linux
+⌘  infrastructure       ⌁  cloud       ◈  distributed systems
 ```
 
 </div>
@@ -25,7 +25,8 @@
 ```text
 languages  →  C · Python · Java · SQL
 systems    →  Linux · Bash
-learning   →  Docker · Terraform
+database   →  PostgreSQL
+exploring  →  Docker · Terraform · Cloud
 ```
 
 <div align="center">
@@ -45,46 +46,60 @@ learning   →  Docker · Terraform
 
 ### `~/projects`
 
+<details>
+<summary><code>systems/</code></summary>
+
+<sub>
+  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/authopsy">authopsy</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a Linux authentication log analyzer for detecting suspicious login attempts, identifying activity patterns, and automating security monitoring.
+  <br>
+</sub>
+
+</details>
+
+<details>
+<summary><code>applications/</code></summary>
+
+<sub>
+  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/afterword">afterword</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a dynamic media catalog for tracking and exploring books, movies, games, and anime, featuring backend integrations and PostgreSQL persistence.
+  <br>
+</sub>
+
+</details>
 
 <details>
 <summary><code>infrastructure/</code></summary>
 
-<br>
+<sub>i'm migrating accounts and will soon update this section.</sub>
 
-i'm migrating accounts and will soon update this section.
 </details>
 
 <details>
 <summary><code>automation/</code></summary>
-
-<br>
-
-i'm migrating accounts and will soon update this section.
+  
+<sub>i'm migrating accounts and will soon update this section.</sub>
 
 </details>
 
 <details>
 <summary><code>experiments/</code></summary>
-
+  
 <sub>
-  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/authopsy">authopsy</a>
+  &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/thoughtdump">thoughtdump</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;performing an "autopsy" on linux authentication logs — analyzing failed login attempts, detecting suspicious activity, and uncovering patterns in authentication events.
-  <br>
-</sub>
-
-<sub>
-  &nbsp;&nbsp;02 · <a href="https://github.com/isitasz/afterword.git">afterword</a>
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;a cloud-based dynamic catalog for tracking and analyzing your consumption of diferent medias.
+  &nbsp;&nbsp;&nbsp;&nbsp;a personal knowledge base built with MkDocs and GitHub Pages, featuring automated deployment through GitHub Actions.
   <br>
 </sub>
 
 </details>
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=900&pause=700&color=9B5CFF&background=0D0B1200&center=false&vCenter=false&multiline=true&repeat=true&width=520&height=55&lines=%24+clear%3B%24+exit)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="banner.jpg">
-</div> 
-
+</div>
