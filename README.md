@@ -65,6 +65,15 @@ exploring  →  Docker · Terraform · Cloud
   <br>
 </sub>
 
+<br>
+
+<sub>
+  &nbsp;&nbsp;03 · <a href="https://github.com/isitasz/revarchol">revarchol</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a desktop setup for Arch Linux, featuring a custom GTK shell, system controls, desktop utilities and coordinated theming.
+  <br>
+</sub>
+
 </details>
 
 <details>
