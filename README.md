@@ -56,24 +56,24 @@ exploring  →  Docker · Terraform · Cloud
   <br>
 </sub>
 
+<br>
+
+<sub>
+  &nbsp;&nbsp;02 · <a href="https://github.com/isitasz/nyx-browser">nyx browser</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a Firefox-based browser engineering project focused on building a custom browser, privacy engineering, security hardening, and source-level modifications.
+  <br>
+</sub>
+
 </details>
 
 <details>
-<summary><code>applications/</code></summary>
+<summary><code>data/</code></summary>
 
 <sub>
   &nbsp;&nbsp;01 · <a href="https://github.com/isitasz/afterword">afterword</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;a dynamic media catalog for tracking and exploring books, movies, games, and anime, featuring backend integrations and PostgreSQL persistence.
-  <br>
-</sub>
-
-<br>
-
-<sub>
-  &nbsp;&nbsp;02 · <a href="https://github.com/isitasz/afterword">nyx browser</a>
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;a Firefox-based browser engineering project focused on Gecko internals, privacy hardening, security architecture, and custom source-level modifications.
   <br>
 </sub>
 
