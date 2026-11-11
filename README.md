@@ -68,6 +68,15 @@ exploring  →  Docker · Terraform · Cloud
   <br>
 </sub>
 
+<br>
+
+<sub>
+  &nbsp;&nbsp;02 · <a href="https://github.com/isitasz/afterword">nyx browser</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;a Firefox-based browser engineering project focused on Gecko internals, privacy hardening, security architecture, and custom source-level modifications.
+  <br>
+</sub>
+
 </details>
 
 <details>
