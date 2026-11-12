@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="divider">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#9B5CFF" stop-opacity="0"/><stop offset=".5" stop-color="#9B5CFF" stop-opacity=".8"/><stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="13" width="1000" height="2" fill="url(#d)"/>
+<rect x="474" y="12" width="2" height="4" fill="#9B5CFF" fill-opacity="0.70"/><rect x="526" y="12" width="2" height="4" fill="#9B5CFF" fill-opacity="0.70"/><rect x="460" y="10" width="2" height="8" fill="#9B5CFF" fill-opacity="0.58"/><rect x="540" y="10" width="2" height="8" fill="#9B5CFF" fill-opacity="0.58"/><rect x="446" y="12" width="2" height="4" fill="#9B5CFF" fill-opacity="0.46"/><rect x="554" y="12" width="2" height="4" fill="#9B5CFF" fill-opacity="0.46"/><rect x="432" y="10" width="2" height="8" fill="#9B5CFF" fill-opacity="0.34"/><rect x="568" y="10" width="2" height="8" fill="#9B5CFF" fill-opacity="0.34"/>
+<rect x="494" y="8" width="12" height="12" fill="#9B5CFF" transform="rotate(45 500 14)"/>
+</svg>
