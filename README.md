@@ -8,9 +8,9 @@
 
 <br>
 
-<a href="https://github.com/isitasz"><img src="https://img.shields.io/badge/github-isitasz-0D0B12?style=for-the-badge&logo=github&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="github"></a>
-<img src="https://img.shields.io/badge/arch_linux-btw-0D0B12?style=for-the-badge&logo=archlinux&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="arch linux">
-<img src="https://img.shields.io/badge/ufscar-computer_science-0D0B12?style=for-the-badge&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="ufscar">
+<a href="https://isitasz.github.io"><img src="https://img.shields.io/badge/portfolio-0D0B12?style=for-the-badge&logo=googlechrome&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="portfolio"></a>
+<a href="mailto:isacamillo@proton.me"><img src="https://img.shields.io/badge/email-0D0B12?style=for-the-badge&logo=gmail&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="email"></a>
+<a href="https://www.linkedin.com/in/isa-camillo"><img src="https://img.shields.io/badge/linkedin-0D0B12?style=for-the-badge&logoColor=9B5CFF&labelColor=0D0B12&color=2A1F3D" alt="linkedin"></a>
 
 </div>
 
@@ -69,21 +69,6 @@
 <img src="assets/titles/stats.svg" alt="04 / stats" width="100%">
 
 <br>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=isitasz&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=9B5CFF&icon_color=9B5CFF&text_color=CDB8FF&ring_color=9B5CFF&card_width=400" alt="github stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isitasz&layout=compact&hide_border=true&bg_color=0D0B12&title_color=9B5CFF&text_color=CDB8FF&card_width=300" alt="top languages" />
-
-</div>
-
-<br>
-
-<img src="assets/titles/arcade.svg" alt="05 / arcade" width="100%">
-
-<br>
-
-my contribution graph, eaten one commit at a time.
 
 <div align="center">
 
