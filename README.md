@@ -20,7 +20,13 @@
 
 <br>
 
-<img src="assets/about-card.svg" alt="isabella@arch: os arch linux, school ufscar computer science, focus infrastructure, cloud and distributed systems, shell bash, now docker, terraform and cloud, favs aemeath and horo" width="100%">
+<div align="center">
+
+computer science student @ UFSCar
+linux ricing enthusiast, occasional gamedev
+interested in systems, infrastructure & cloud
+
+</div>
 
 <br>
 
@@ -30,39 +36,84 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,py,java,postgres,linux,arch,bash,git,docker,terraform&theme=dark&perline=10" alt="C, Python, Java, PostgreSQL, Linux, Arch, Bash, Git, Docker, Terraform">
+<img src="https://img.shields.io/badge/C-17121F?style=for-the-badge&logo=c&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Python-17121F?style=for-the-badge&logo=python&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Java-17121F?style=for-the-badge&logo=openjdk&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/PostgreSQL-17121F?style=for-the-badge&logo=postgresql&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Linux-17121F?style=for-the-badge&logo=linux&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Arch_Linux-17121F?style=for-the-badge&logo=archlinux&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Bash-17121F?style=for-the-badge&logo=gnubash&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Git-17121F?style=for-the-badge&logo=git&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Docker-17121F?style=for-the-badge&logo=docker&logoColor=B58AFF">
+<img src="https://img.shields.io/badge/Terraform-17121F?style=for-the-badge&logo=terraform&logoColor=B58AFF">
 
 </div>
 
-<br>
 
 ✦ **languages**  
-`C` `Python` `Java` `SQL`
+`C` `C++` `Python` `Java` `SQL`
 
 ✦ **systems**  
-`Linux` `Arch` `Bash` `Git`
+`Linux` `Fish` `Git`
 
 ✦ **database**  
 `PostgreSQL`
 
 ✦ **exploring**  
-`Docker` `Terraform` `Cloud`
+`Docker` `Terraform`
 
-<br>
+
 
 <img src="assets/titles/projects.svg" alt="03 / projects" width="100%">
 
 <br>
 
-| project | area | description |
-|:--|:--|:--|
-| ✦ **[authopsy](https://github.com/isitasz/authopsy)** | `systems` | a Linux authentication log analyzer for detecting suspicious login attempts, identifying activity patterns, and automating security monitoring. |
-| ✦ **[nyx browser](https://github.com/isitasz/nyx-browser)** | `systems` | a Firefox-based browser engineering project focused on building a custom browser, privacy engineering, security hardening, and source-level modifications. |
-| ✦ **[revarchol](https://github.com/isitasz/revarchol)** | `systems` | a desktop setup for Arch Linux, featuring a custom GTK shell, system controls, desktop utilities and coordinated theming. |
-| ✦ **[afterword](https://github.com/isitasz/afterword)** | `data` | a dynamic media catalog for tracking and exploring books, movies, games, and anime, featuring backend integrations and PostgreSQL persistence. |
-| ✦ **[thoughtdump](https://github.com/isitasz/thoughtdump)** | `experiments` | a personal knowledge base built with MkDocs and GitHub Pages, featuring automated deployment through GitHub Actions. |
+<details open>
+<summary>✦ systems/</summary>
 
-<sub>`infrastructure/` and `automation/`: i'm migrating accounts and will soon update these sections.</sub>
+<br>
+
+- **[authopsy](https://github.com/isitasz/authopsy)** — a Linux authentication log analyzer for detecting suspicious login attempts and identifying activity patterns.
+- **[nyx-browser](https://github.com/isitasz/nyx-browser)** — a Firefox-based browser project focused on privacy engineering, security hardening and source-level modifications.
+- **[revarchol](https://github.com/isitasz/revarchol)** — an Arch Linux desktop setup featuring a custom GTK shell, system controls and coordinated theming.
+
+</details>
+
+<details>
+<summary>✦ data/</summary>
+
+<br>
+
+- **[afterword](https://github.com/isitasz/afterword)** — a media catalog for books, movies, games and anime, with backend integrations and PostgreSQL persistence.
+
+</details>
+
+<details>
+<summary>✦ experiments/</summary>
+
+<br>
+
+- **[thoughtdump](https://github.com/isitasz/thoughtdump)** — a personal knowledge base built with MkDocs and GitHub Pages.
+
+</details>
+
+<details>
+<summary>✦ infrastructure/</summary>
+
+<br>
+
+<sub>under construction.</sub>
+
+</details>
+
+<details>
+<summary>✦ automation/</summary>
+
+<br>
+
+<sub>under construction.</sub>
+
+</details>
 
 <br>
 
@@ -70,7 +121,7 @@
 
 <br>
 
-<img src="assets/playlist-card.svg" alt="now playing: wuwa ost, spice and wolf" width="100%">
+still working on this one. sorry...
 
 <br>
 
